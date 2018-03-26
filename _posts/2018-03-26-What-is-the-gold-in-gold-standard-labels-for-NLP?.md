@@ -9,7 +9,7 @@ There are two typical ways of obtaining labels for supervised classification:
 (1)  Automatic collection of some element of metadata that is assumed to represent the value of the category in question. Typical examples of the this in NLP are hashtag terms for tweet classification and star ratings for sentiment analysis of Amazon reviews. 
 (2) Manual labelling by external annotators–either supposed experts in the domain/task or non-experts crowdsourced using platforms such as Amazon Mechanical Turk or Crowdflower.
 
-Method 1 is prone to some noisiness resulting from things like human error, carelessness and mischief, as well as systematic bias due to the way in which different types of people use or apply the elements that are used as labels. For example, it has been shown that Amazon users are systematically more or less generous with the number of stars they award products depending on which country they are from. This type of label is convenient and cheap to obtain, but there are often untested assumptions about the extent to which they really the represent the target phenomenon (e.g., sentiment, sarcasm) in question. 
+Method 1 is prone to some noisiness resulting from things like human error, carelessness and mischief, as well as systematic bias due to the way in which different types of people use or apply the elements that are used as labels. For example, it has been shown that Amazon users are systematically more or less generous with the number of stars they award products depending on which country they are from.<sup>2</sup> This type of label is convenient and cheap to obtain, but there are often untested assumptions about the extent to which they really the represent the target phenomenon (e.g., sentiment, sarcasm) in question. 
 
 Using method 2 meanwhile, we encounter other problems. No matter how expert the experts are, most problems in NLP are hard, and total annotator agreement is extremely rare. There can be several reasons for this ‘hardness’ including syntactic and semantic ambiguities inherent in natural languages and the necessity of having access to contextual information and shared knowledge necessary to resolve these ambiguities. Additionally, for many tasks, annotators don’t have access to knowledge of the ‘private states’ of emotion or attitude of the people who wrote the text that are necessary for 100% confidence in the accuracy of the labelling. 
 
@@ -28,6 +28,7 @@ So, in the absence of ground truth labels, it must be the nature and objectives 
 
 That probably sounds pretty flaky if you’re used to hard logic and reasoning, but it’s all we have and it seems to work okay for many practical applications.
 
-<h4>References</h4>
+<h3>References</h3>
 
-Nirenburg, S. and McShane, M., 2016. Natural language processing. The Oxford Handbook of Cognitive Science, p.337.
+1. Nirenburg, S. and McShane, M., 2016. Natural language processing. The Oxford Handbook of Cognitive Science, p.337.
+2. Hardt, D., & Wulff, J. (2012). What is the meaning of 5*'s? An investigation of the expression and rating of sentiment. In KONVENS (pp. 319-326).
