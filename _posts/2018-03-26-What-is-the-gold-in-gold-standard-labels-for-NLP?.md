@@ -23,7 +23,7 @@ But, to justify having gone to the bother of creating them, we hope our gold sta
 
 So, in the absence of ground truth labels, it must be the nature and objectives of the task that give meaning to the gold standard labels:
 
-The value of the gold derives from the task definition for the annotation effort, which in turn derives from combined judgements about practicality and utility on the part of developers.
+<blockquote>The value of the gold derives from the task definition for the annotation effort, which in turn derives from combined judgements about practicality and utility on the part of developers.</blockquote>
 Oxford handbook of Cognitive Science
 
 That probably sounds pretty flaky if you’re used to hard logic and reasoning, but it’s all we have and it seems to work okay for many practical applications.
