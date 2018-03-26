@@ -2,7 +2,7 @@ Some meandering thoughts on labelling for supervised text classification.
 
 I’ve recently had a couple of experiences presenting work on supervised text classification to people from other fields who expressed bafflement that we would ever consider evaluating anything with labels that we know not to be entirely reliable. I myself was pretty surprised by the idea that there could exist labels for any task that can be considered to be 100% reliable. I’m just so used to considering labels to invariably be both noisy and systematically biased. Which poses this question:
 
-Even though annotated corpora represent a gold standard, the question is, what is the gold in the standard?
+<blockquote>Even though annotated corpora represent a gold standard, the question is, what is the gold in the standard?</blockquote>
 Oxford handbook of Cognitive Science
 
 There are two typical ways of obtaining labels for supervised classification: 
