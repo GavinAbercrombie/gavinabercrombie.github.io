@@ -11,7 +11,7 @@ There are two typical ways of obtaining labels for supervised classification:
 
 Method 1 is prone to some noisiness resulting from things like human error, carelessness and mischief, as well as systematic bias due to the way in which different types of people use or apply the elements that are used as labels. For example, it has been shown that Amazon users are systematically more or less generous with the number of stars they award products depending on which country they are from.<sup>2</sup> This type of label is convenient and cheap to obtain, but there are often untested assumptions about the extent to which they really the represent the target phenomenon (e.g., sentiment, sarcasm) in question. 
 
-Using method 2 meanwhile, we encounter other problems. No matter how expert the experts are, most problems in NLP are hard, and total annotator agreement is extremely rare. There can be several reasons for this ‘hardness’ including syntactic and semantic ambiguities inherent in natural languages and the necessity of having access to contextual information and shared knowledge necessary to resolve these ambiguities. Additionally, for many tasks, annotators don’t have access to knowledge of the ‘private states’ of emotion or attitude of the people who wrote the text that are necessary for 100% confidence in the accuracy of the labelling. 
+Using method 2 meanwhile, we encounter other problems. No matter how expert the experts are, most problems in NLP are hard, and total annotator agreement is extremely rare. There can be several reasons for this ‘hardness’ including syntactic and semantic ambiguities inherent in natural languages and the necessity of having access to contextual information and shared knowledge necessary to resolve these ambiguities. Additionally, for many tasks, annotators don’t have access to knowledge of the ‘private states’<sup>3</sup> of emotion or attitude of the people who wrote the text that are necessary for 100% confidence in the accuracy of the labelling. 
 
 So, if we don’t, and indeed can’t, have access to the ‘ground truth’, what do our labels represent? Which method produces labels that are closer to this truth? And what does it mean for a classifier to be able to predict them? 
 
@@ -26,9 +26,10 @@ So, in the absence of ground truth labels, it must be the nature and objectives 
 <blockquote><em>The value of the gold derives from the task definition for the annotation effort, which in turn derives from combined judgements about practicality and utility on the part of developers.</em></blockquote>
 <div style="text-align: right">Oxford handbook of Cognitive Science</div>
 
-That probably sounds pretty flaky if you’re used to hard logic and reasoning, but it’s all we have and it seems to work okay for many practical applications.
+That probably sounds pretty flaky if you’re used to hard logic and reasoning, but in NLP it’s generally all we have and it seems to work okay for many practical applications.
 
 <h3>References</h3>
 
 1. Nirenburg, S. and McShane, M., 2016. Natural language processing. The Oxford Handbook of Cognitive Science, p.337.
 2. Hardt, D., & Wulff, J. (2012). What is the meaning of 5*'s? An investigation of the expression and rating of sentiment. In KONVENS (pp. 319-326).
+3. Quirk, R., 1985. A comprehensive grammar of the English language. Longman.
