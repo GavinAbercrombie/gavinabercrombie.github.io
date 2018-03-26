@@ -2,8 +2,8 @@ Some meandering thoughts on labelling for supervised text classification.
 
 I’ve recently had a couple of experiences presenting work on supervised text classification to people from other fields who expressed bafflement that we would ever consider evaluating anything with labels that we know not to be entirely reliable. I myself was pretty surprised by the idea that there could exist labels for any task that can be considered to be 100% reliable. I’m just so used to considering labels to invariably be both noisy and systematically biased. Which poses this question:
 
-<blockquote><em>Even though annotated corpora represent a gold standard, the question is, what is the gold in the standard?</em></blockquote> 
-<div style="text-align: right">Oxford handbook of Cognitive Science</div>
+<blockquote><em>Even though annotated corpora represent a gold standard, the question is, what is the gold in the standard?</em> Oxford handbook of Cognitive Science</blockquote> 
+
 
 There are two typical ways of obtaining labels for supervised classification: 
 (1)  Automatic collection of some element of metadata that is assumed to represent the value of the category in question. Typical examples of the this in NLP are hashtag terms for tweet classification and star ratings for sentiment analysis of Amazon reviews. 
@@ -23,7 +23,6 @@ But, to justify having gone to the bother of creating them, we hope our gold sta
 
 So, in the absence of ground truth labels, it must be the nature and objectives of the task that give meaning to the gold standard labels:
 
-<blockquote><em>The value of the gold derives from the task definition for the annotation effort, which in turn derives from combined judgements about practicality and utility on the part of developers.</em></blockquote>
-Oxford handbook of Cognitive Science
+<blockquote><em>The value of the gold derives from the task definition for the annotation effort, which in turn derives from combined judgements about practicality and utility on the part of developers.</em> Oxford handbook of Cognitive Science</blockquote>
 
 That probably sounds pretty flaky if you’re used to hard logic and reasoning, but it’s all we have and it seems to work okay for many practical applications.
