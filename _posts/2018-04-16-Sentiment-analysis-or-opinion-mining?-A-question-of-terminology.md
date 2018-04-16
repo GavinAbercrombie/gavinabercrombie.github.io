@@ -39,17 +39,27 @@ There is already NLP work considering private states, such as Wilson and Wiebe (
 Conclusion:
 A better system of terminology may exist, but it’s probably too much to go against 10,000 citations. For current work, I’m just going to have to go with the clunky <em>Sentiment Analysis and Opinion Mining</em> (<em>SA & OM</em>).
 
-<h3>References</h3>
+<h2>References</h2>
 
 [^1]: Pang, B. and Lee, L., 2008. <em>Opinion mining and sentiment analysis</em>. Foundations and Trends® in Information Retrieval, 2(1–2), pp.1-135.
 
-2. Liu, B., 2012. <em>Sentiment analysis and opinion mining</em>. Synthesis lectures on human language technologies, 5(1), pp.1-167. 
-3. Vinodhini, G. and Chandrasekaran, R.M., 2012. <em>Sentiment analysis and opinion mining: a survey</em>. International Journal, 2(6), pp.282-292.
-4. Medhat, W., Hassan, A. and Korashy, H., 2014. <em>Sentiment analysis algorithms and applications: A survey</em>. Ain Shams Engineering Journal, 5(4), pp.1093-1113. 
-5. Ravi, K. and Ravi, V., 2015. <em>A survey on opinion mining and sentiment analysis: tasks, approaches and applications. Knowledge-Based Systems</em>, 89, pp.14-46.
-6. Balazs, J.A. and Velásquez, J.D., 2016. <em>Opinion mining and information fusion: a survey</em>. Information Fusion, 27, pp.95-110.
-7. Yadollahi, A., Shahraki, A.G. and Zaiane, O.R., 2017. <em>Current state of text sentiment analysis from opinion to emotion mining</em>. ACM Computing Surveys (CSUR), 50(2), p.25.
-8. https://wordnet.princeton.edu/
-9. Quirk, R., 1985. <em>A comprehensive grammar of the English language</em>. Longman.
-10. Wilson, T. and Wiebe, J., 2005, June. <em>Annotating attributions and private states</em>. In Proceedings of the Workshop on Frontiers in Corpus Annotations II: Pie in the Sky (pp. 53-60). Association for Computational Linguistics.
-11. Rambow, O. and Wiebe, J., 2015. Sentiment and belief: How to think about, represent, and annotate private states. Tutorials, pp.7-11.
+[^2]: Liu, B., 2012. <em>Sentiment analysis and opinion mining</em>. Synthesis lectures on human language technologies, 5(1), pp.1-167. 
+
+[^3]: Vinodhini, G. and Chandrasekaran, R.M., 2012. <em>Sentiment analysis and opinion mining: a survey</em>. International Journal, 2(6), pp.282-292.
+
+[^4]: Medhat, W., Hassan, A. and Korashy, H., 2014. <em>Sentiment analysis algorithms and applications: A survey</em>. Ain Shams Engineering Journal, 5(4), pp.1093-1113.
+
+[^5]: Ravi, K. and Ravi, V., 2015. <em>A survey on opinion mining and sentiment analysis: tasks, approaches and applications. Knowledge-Based Systems</em>, 89, pp.14-46.
+
+[^6]: Balazs, J.A. and Velásquez, J.D., 2016. <em>Opinion mining and information fusion: a survey</em>. Information Fusion, 27, pp.95-110.
+
+[^7]: Yadollahi, A., Shahraki, A.G. and Zaiane, O.R., 2017. <em>Current state of text sentiment analysis from opinion to emotion mining</em>. ACM Computing Surveys (CSUR), 50(2), p.25.
+
+[^8]: https://wordnet.princeton.edu/
+
+[^9]: Quirk, R., 1985. <em>A comprehensive grammar of the English language</em>. Longman.
+
+[^10]: Wilson, T. and Wiebe, J., 2005, June. <em>Annotating attributions and private states</em>. In Proceedings of the Workshop on Frontiers in Corpus Annotations II: Pie in the Sky (pp. 53-60). Association for Computational Linguistics.
+
+[^11]: Rambow, O. and Wiebe, J., 2015. Sentiment and belief: How to think about, represent, and annotate private states. Tutorials, pp.7-11.
+
