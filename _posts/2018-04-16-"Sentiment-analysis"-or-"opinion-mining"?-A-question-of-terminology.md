@@ -24,10 +24,10 @@ What about Wordnet?<sup>8</sup> Here, sentiment and opinion are synonyms, while 
 
 Delving deeper into English linguistics, we find that, while not mentioning sentiment or opinion explicitly, in discussing stative verbs used to describe ‘private’ states, Quirk (1985)<sup>9</sup> differentiates between intellectual states and states of emotion or attitude. Could this be the basis of a taxonomy?
 
-Private states
-
 Intellectual states | Emotional/attitudinal states
 ------------ | -------------
+(eg: know, believe, think, wonder, suppose, imagine, realize, understand), especially when followed by a nominal clause as object: I understand that the offer has been accepted. | (eg: intend, wish, want, like, dislike, disagree, pity), especially when followed by causal complementation: She likes to entertain the students.
+Opinion? | Sentiment?
 
 There is already NLP work considering private states, such as Wilson and Wiebe (2005),<sup>10</sup> and Rambow and Wiebe (2015),<sup>11</sup> which differentiates between sentiment (can be directed at an entity or a state of affairs) and belief (with only states of affairs as targets).
 
