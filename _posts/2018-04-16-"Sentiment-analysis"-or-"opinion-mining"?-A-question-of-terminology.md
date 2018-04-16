@@ -13,7 +13,7 @@ What about Wordnet?<sup>8</sup> Here, sentiment and opinion are synonyms, while 
 Delving deeper into English linguistics, we find that, while not mentioning sentiment or opinion explicitly, in discussing stative verbs used to describe ‘private’ states, Quirk (1985)<sup>9</sup> differentiates between intellectual states and states of emotion or attitude. Could this be the basis of a taxonomy?
 
 
-There is already NLP work considering private states, such as Wilson and Wiebe (2005), and Rambow and Wiebe (2015), which differentiates between sentiment (can be directed at an entity or a state of affairs) and belief (with only states of affairs as targets).
+There is already NLP work considering private states, such as Wilson and Wiebe (2005),<sup>10</sup> and Rambow and Wiebe (2015),<sup>11</sup> which differentiates between sentiment (can be directed at an entity or a state of affairs) and belief (with only states of affairs as targets).
 
 Conclusion:
 A better system of terminology may exist, but it’s probably too much to go against 10,000 citations. For current work, I’m just going to have to go with the clunky <em>Sentiment Analysis and Opinion Mining</em> (<em>SA & OM</em>).
@@ -28,4 +28,6 @@ A better system of terminology may exist, but it’s probably too much to go aga
 6. Balazs, J.A. and Velásquez, J.D., 2016. <em>Opinion mining and information fusion: a survey</em>. Information Fusion, 27, pp.95-110.
 7. Yadollahi, A., Shahraki, A.G. and Zaiane, O.R., 2017. <em>Current state of text sentiment analysis from opinion to emotion mining</em>. ACM Computing Surveys (CSUR), 50(2), p.25.
 8. https://wordnet.princeton.edu/
-9. Quirk, R., 1985. A comprehensive grammar of the English language. Longman.
+9. Quirk, R., 1985. <em>A comprehensive grammar of the English language</em>. Longman.
+10. Wilson, T. and Wiebe, J., 2005, June. <em>Annotating attributions and private states</em>. In Proceedings of the Workshop on Frontiers in Corpus Annotations II: Pie in the Sky (pp. 53-60). Association for Computational Linguistics.
+11. Rambow, O. and Wiebe, J., 2015. Sentiment and belief: How to think about, represent, and annotate private states. Tutorials, pp.7-11.
