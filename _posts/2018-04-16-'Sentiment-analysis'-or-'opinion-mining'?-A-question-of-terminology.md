@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "“Sentiment analysis” or “opinion mining”? A question of terminology"
+title:  "'Sentiment analysis' or 'opinion mining'? A question of terminology"
 date:   2018-04-16
 categories: sentiment
 ---
