@@ -14,7 +14,9 @@ Dictionary | Sentiment | Opinion
 ------------ | ------------- | -------------
 Cambridge | 1. A thought, opinion, or idea based on a feeling about a situation, or a way of thinking about something. 2. A situation, or a way of thinking about something | 1. A thought or belief about something or someone 2. A judgment about someone or something
 Oxford | 1. A view or opinion that is held or expressed. 2. A feeling or emotion | 1. A view or judgement formed about something, not necessarily based on fact or knowledge. 2. An estimation of the quality or worth of someone or something
-Miriam-Webster | 1. A subjective response to a person, thing, or situation. 2. An idea that is believed to be true or valid without positive knowledge | 1. An idea that is believed to be true or valid without positive knowledge Synonyms: belief, conviction, eye, feeling, judgment (or judgement), mind, notion, persuasion, sentiment, verdict, view. 2. A position arrived at after consideration
+Miriam-Webster | 1. A subjective response to a person, thing, or situation. 2. An idea that is believed to be true or valid without positive knowledge | 1. An idea that is believed to be true or valid without positive knowledge. Synonyms: belief, conviction, eye, feeling, judgment (or judgement), mind, notion, persuasion, sentiment, verdict, view. 2. A position arrived at after consideration
+dictionary.com | An attitude toward something; regard; opinion. | 1. A belief or judgment that rests on grounds insufficient to producecomplete certainty. 2. A personal view, attitude, or appraisal.
+
 
 Only Collins is able to define both these words without using one of them in the definition of the other, the difference for them appearing to be that unlike opinion, sentiment is concerned (at least to some extent) with “feelings”. 
 
