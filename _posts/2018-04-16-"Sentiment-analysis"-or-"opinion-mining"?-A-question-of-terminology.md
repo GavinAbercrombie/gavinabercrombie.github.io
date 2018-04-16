@@ -12,8 +12,7 @@ Maybe the dictionary definition can help? A quick search of five online dictiona
 
 Dictionary | Sentiment | Opinion
 ------------ | ------------- | -------------
-Cambridge | 1. A thought, opinion, or idea based on a feeling about a situation, or a way of thinking about something
-2. A situation, or a way of thinking about something | 1. A thought or belief about something or someone 2. A judgment about someone or something
+Cambridge | 1. A thought, opinion, or idea based on a feeling about a situation, or a way of thinking about something. 2. A situation, or a way of thinking about something | 1. A thought or belief about something or someone 2. A judgment about someone or something
 ------------ | ------------- | -------------
 Content in the first column | Content in the second column |
 
