@@ -1,6 +1,6 @@
 In the literature surrounding this task, the terms “sentiment analysis” (SA) and “opinion mining” (OM) are used more or less interchangeably, which is inconvenient and seems unintuitive–surely “sentiment” and “opinion” are two different things?
 
-The most famous and influential paper in this area, Pang and Lee (2008)<sup>1</sup>, includes a lengthy section on this terminology problem, but concludes that, as the then already existing literature used both terms, they should be used synonymously. The other highly cited survey paper Liu does the same, classing sentiment as a form of opinion along with evaluation, appraisal, attitude, and emotion, and states that, "Sentiment analysis and opinion mining mainly focuses on opinions which express or imply positive or negative sentiments", which doesn’t seem to clear much up. With a combined c.10,000 citations, it’s hard to argue with the influence of these two papers, and most subsequent surveys follow the approach of treating the two terms synonymously and interchangeably (see for example, Vinodhini and Chandrasekaran (2012), Medhat et al. (2014), Ravi and Ravi (2015),  Balazs and Velásquez (2016)). However, it remains unsatisfying to have to write the cumbersome “sentiment analysis and opinion mining” everytime we wish to refer to this task.
+The most famous and influential paper in this area, Pang and Lee (2008)<sup>1</sup>, includes a lengthy section on this terminology problem, but concludes that, as the then already existing literature used both terms, they should be used synonymously. The other highly cited survey paper, Liu (2012),<sup>2</sup> does the same, classing sentiment as a form of opinion along with evaluation, appraisal, attitude, and emotion, and states that, "Sentiment analysis and opinion mining mainly focuses on opinions which express or imply positive or negative sentiments", which doesn’t seem to clear much up. With a combined c.10,000 citations, it’s hard to argue with the influence of these two papers, and most subsequent surveys follow the approach of treating the two terms synonymously and interchangeably (see for example, Vinodhini and Chandrasekaran (2012),<sup>3</sup> Medhat et al. (2014),<sup>4</sup> Ravi and Ravi (2015),<sup>5</sup> Balazs and Velásquez (2016).<sup>6</sup> However, it remains unsatisfying to have to write the cumbersome “sentiment analysis and opinion mining” everytime we wish to refer to this task.
 
 A recent survey, Yadollahi et al., attempts to sort out this mess, proposing a taxonomy of related problems. It’s an admirable attempt to do what nobody has done yet, but for me, poses more questions than it answers. For example, why should opinion mining be a hyponym of sentiment analysis? After all, Liu has it the other way around, and I can’t really see why one should be hypernomous of the other anyway.
 
@@ -17,3 +17,13 @@ There is already NLP work considering private states, such as Wilson and Wiebe (
 
 Conclusion:
 A better system of terminology may exist, but it’s probably too much to go against 10,000 citations. For current work, I’m just going to have to go with the clunky <em>Sentiment Analysis and Opinion Mining</em> (<em>SA & OM</em>).
+
+<h3>References</h3>
+
+1. Pang, B. and Lee, L., 2008. <em>Opinion mining and sentiment analysis</em>. Foundations and Trends® in Information Retrieval, 2(1–2), pp.1-135.
+2. Liu, B., 2012. <em>Sentiment analysis and opinion mining</em>. Synthesis lectures on human language technologies, 5(1), pp.1-167. 
+3. Vinodhini, G. and Chandrasekaran, R.M., 2012. <em>Sentiment analysis and opinion mining: a survey</em>. International Journal, 2(6), pp.282-292.
+4. Medhat, W., Hassan, A. and Korashy, H., 2014. <em>Sentiment analysis algorithms and applications: A survey</em>. Ain Shams Engineering Journal, 5(4), pp.1093-1113. 
+5. Ravi, K. and Ravi, V., 2015. <em>A survey on opinion mining and sentiment analysis: tasks, approaches and applications. Knowledge-Based Systems</em>, 89, pp.14-46.
+6. Balazs, J.A. and Velásquez, J.D., 2016. <em>Opinion mining and information fusion: a survey</em>. Information Fusion, 27, pp.95-110.
+
