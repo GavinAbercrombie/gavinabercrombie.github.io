@@ -10,6 +10,11 @@ It’s an admirable attempt to do what nobody has done yet, but for me, poses mo
 
 Maybe the dictionary definition can help? A quick search of five online dictionaries does not resolve the confusion, with “opinion” appearing in the definition of “sentiment” in 3/5 cases, and “sentiment” in one of the other’s definition of “opinion”. So, maybe these two words are similar enough to be treated synonymously after all?
 
+Dictionary | Sentiment | Opinion
+------------ | ------------- | -------------
+Content from cell 1 | Content from cell 2 |
+Content in the first column | Content in the second column |
+
 Only Collins is able to define both these words without using one of them in the definition of the other, the difference for them appearing to be that unlike opinion, sentiment is concerned (at least to some extent) with “feelings”. 
 
 What about Wordnet?<sup>8</sup> Here, sentiment and opinion are synonyms, while both are hyponyms of belief. If a taxonomy of terms is to be established, maybe this makes more sense as its basis.
