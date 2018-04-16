@@ -30,8 +30,8 @@ Delving deeper into English linguistics, we find that, while not mentioning sent
 
 Intellectual states | Emotional/attitudinal states
 ------------ | -------------
-(eg: know, believe, think, wonder, suppose, imagine, realize, understand), especially when followed by a nominal clause as object: I understand that the offer has been accepted. | (eg: intend, wish, want, like, dislike, disagree, pity), especially when followed by causal complementation: She likes to entertain the students.
-Opinion? | Sentiment?{: style="color:gray; font-size: 80%; text-align: center;"}
+<h4>(eg: know, believe, think, wonder, suppose, imagine, realize, understand), especially when followed by a nominal clause as object: I understand that the offer has been accepted.</h4> | (eg: intend, wish, want, like, dislike, disagree, pity), especially when followed by causal complementation: She likes to entertain the students.
+
 
 
 There is already NLP work considering private states, such as Wilson and Wiebe (2005),<sup>10</sup> and Rambow and Wiebe (2015),<sup>11</sup> which differentiates between sentiment (can be directed at an entity or a state of affairs) and belief (with only states of affairs as targets).
