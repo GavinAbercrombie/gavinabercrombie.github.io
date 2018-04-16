@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sentiment-analysis"-or-"opinion-mining"?-A-question-of-terminology
 ---
 
