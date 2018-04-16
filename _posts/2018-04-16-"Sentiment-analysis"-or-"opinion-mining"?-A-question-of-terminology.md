@@ -4,7 +4,7 @@ The most famous and influential paper in this area, Pang and Lee (2008)<sup>1</s
 
 A recent survey, Yadollahi et al.,<sup>7</sup> attempts to sort out this mess, proposing a taxonomy of related problems.
 
-![Taxonomy of sentiment]({{ "/assets/sentimenttaxonomy.png" | absolute_url }})
+![Taxonomy of sentiment analysis tasks.]({{ "/assets/sentimenttaxonomy.png" | absolute_url }})
 
 It’s an admirable attempt to do what nobody has done yet, but for me, poses more questions than it answers. For example, why should opinion mining be a hyponym of sentiment analysis? After all, Liu has it the other way around, and I can’t really see why one should be hypernomous of the other anyway.
 
