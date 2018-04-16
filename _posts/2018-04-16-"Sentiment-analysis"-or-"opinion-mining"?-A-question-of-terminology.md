@@ -25,6 +25,7 @@ What about Wordnet?<sup>8</sup> Here, sentiment and opinion are synonyms, while 
 Delving deeper into English linguistics, we find that, while not mentioning sentiment or opinion explicitly, in discussing stative verbs used to describe ‘private’ states, Quirk (1985)<sup>9</sup> differentiates between intellectual states and states of emotion or attitude. Could this be the basis of a taxonomy?
 
 Private states
+
 Intellectual states | Emotional/attitudinal states
 ------------ | -------------
 
