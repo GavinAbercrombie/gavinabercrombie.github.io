@@ -2,7 +2,11 @@ In the literature surrounding this task, the terms “sentiment analysis” (SA)
 
 The most famous and influential paper in this area, Pang and Lee (2008)<sup>1</sup>, includes a lengthy section on this terminology problem, but concludes that, as the then already existing literature used both terms, they should be used synonymously. The other highly cited survey paper, Liu (2012),<sup>2</sup> does the same, classing sentiment as a form of opinion along with evaluation, appraisal, attitude, and emotion, and states that, "Sentiment analysis and opinion mining mainly focuses on opinions which express or imply positive or negative sentiments", which doesn’t seem to clear much up. With a combined c.10,000 citations, it’s hard to argue with the influence of these two papers, and most subsequent surveys follow the approach of treating the two terms synonymously and interchangeably (see for example, Vinodhini and Chandrasekaran (2012),<sup>3</sup> Medhat et al. (2014),<sup>4</sup> Ravi and Ravi (2015),<sup>5</sup> Balazs and Velásquez (2016).<sup>6</sup> However, it remains unsatisfying to have to write the cumbersome “sentiment analysis and opinion mining” everytime we wish to refer to this task.
 
-A recent survey, Yadollahi et al.,<sup>7</sup> attempts to sort out this mess, proposing a taxonomy of related problems. It’s an admirable attempt to do what nobody has done yet, but for me, poses more questions than it answers. For example, why should opinion mining be a hyponym of sentiment analysis? After all, Liu has it the other way around, and I can’t really see why one should be hypernomous of the other anyway.
+A recent survey, Yadollahi et al.,<sup>7</sup> attempts to sort out this mess, proposing a taxonomy of related problems.
+
+![Taxonomy of sentiment]({{ "/assets/opinion_taxonomy.jpg" | absolute_url }})
+
+It’s an admirable attempt to do what nobody has done yet, but for me, poses more questions than it answers. For example, why should opinion mining be a hyponym of sentiment analysis? After all, Liu has it the other way around, and I can’t really see why one should be hypernomous of the other anyway.
 
 Maybe the dictionary definition can help? A quick search of five online dictionaries does not resolve the confusion, with “opinion” appearing in the definition of “sentiment” in 3/5 cases, and “sentiment” in one of the other’s definition of “opinion”. So, maybe these two words are similar enough to be treated synonymously after all?
 
