@@ -42,6 +42,7 @@ A better system of terminology may exist, but it’s probably too much to go aga
 <h3>References</h3>
 
 [^1]: Pang, B. and Lee, L., 2008. <em>Opinion mining and sentiment analysis</em>. Foundations and Trends® in Information Retrieval, 2(1–2), pp.1-135.
+
 2. Liu, B., 2012. <em>Sentiment analysis and opinion mining</em>. Synthesis lectures on human language technologies, 5(1), pp.1-167. 
 3. Vinodhini, G. and Chandrasekaran, R.M., 2012. <em>Sentiment analysis and opinion mining: a survey</em>. International Journal, 2(6), pp.282-292.
 4. Medhat, W., Hassan, A. and Korashy, H., 2014. <em>Sentiment analysis algorithms and applications: A survey</em>. Ain Shams Engineering Journal, 5(4), pp.1093-1113. 
