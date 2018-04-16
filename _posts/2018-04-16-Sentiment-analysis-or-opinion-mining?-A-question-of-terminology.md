@@ -30,7 +30,7 @@ Delving deeper into English linguistics, we find that, while not mentioning sent
 
 Intellectual states | Emotional/attitudinal states
 ------------ | -------------
-<h4>(eg: know, believe, think, wonder, suppose, imagine, realize, understand), especially when followed by a nominal clause as object: I understand that the offer has been accepted.</h4> | (eg: intend, wish, want, like, dislike, disagree, pity), especially when followed by causal complementation: She likes to entertain the students.
+<h6>(eg: know, believe, think, wonder, suppose, imagine, realize, understand), especially when followed by a nominal clause as object: I understand that the offer has been accepted.</h6> | (eg: intend, wish, want, like, dislike, disagree, pity), especially when followed by causal complementation: She likes to entertain the students.
 
 
 
