@@ -1,3 +1,5 @@
+---
+---
 
 What should we call the task of automatically assessing what people think about things? In the literature surrounding this task, the terms “sentiment analysis” (SA) and “opinion mining” (OM) are used more or less interchangeably, which is inconvenient and seems unintuitive–surely “sentiment” and “opinion” are two different things?
 
