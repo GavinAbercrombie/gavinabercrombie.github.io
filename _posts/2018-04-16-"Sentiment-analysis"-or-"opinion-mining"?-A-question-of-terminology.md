@@ -4,7 +4,7 @@ The most famous and influential paper in this area, Pang and Lee (2008)<sup>1</s
 
 A recent survey, Yadollahi et al.,<sup>7</sup> attempts to sort out this mess, proposing a taxonomy of related problems:
 
-![Taxonomy of sentiment analysis tasks.]( "/assets/sentimenttaxonomy.png" "Taxonomy of sentiment analysis tasks." ){: .center-image }
+![Taxonomy of sentiment analysis tasks.]({{ "/assets/sentimenttaxonomy.png" "Taxonomy of sentiment analysis tasks." }}){: .center-image }
 
 It’s an admirable attempt to do what nobody has done yet, but for me, poses more questions than it answers. For example, why should opinion mining be a hyponym of sentiment analysis? After all, Liu has it the other way around, and I can’t really see why one should be hypernomous of the other anyway.
 
@@ -24,6 +24,9 @@ What about Wordnet?<sup>8</sup> Here, sentiment and opinion are synonyms, while 
 
 Delving deeper into English linguistics, we find that, while not mentioning sentiment or opinion explicitly, in discussing stative verbs used to describe ‘private’ states, Quirk (1985)<sup>9</sup> differentiates between intellectual states and states of emotion or attitude. Could this be the basis of a taxonomy?
 
+Private states
+Intellectual states | Emotional/attitudinal states
+------------ | -------------
 
 There is already NLP work considering private states, such as Wilson and Wiebe (2005),<sup>10</sup> and Rambow and Wiebe (2015),<sup>11</sup> which differentiates between sentiment (can be directed at an entity or a state of affairs) and belief (with only states of affairs as targets).
 
