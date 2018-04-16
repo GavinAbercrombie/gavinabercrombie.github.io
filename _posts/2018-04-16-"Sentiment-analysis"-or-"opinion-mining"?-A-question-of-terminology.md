@@ -16,4 +16,4 @@ Delving deeper into English linguistics, we find that, while not mentioning sent
 There is already NLP work considering private states, such as Wilson and Wiebe (2005), and Rambow and Wiebe (2015), which differentiates between sentiment (can be directed at an entity or a state of affairs) and belief (with only states of affairs as targets).
 
 Conclusion:
-A better system of terminology may exist, but it’s probably too hard to go against 10,000 citations. For current work, I’m just going to have to go with the clunky Sentiment Analysis and Opinion Mining.
+A better system of terminology may exist, but it’s probably too much to go against 10,000 citations. For current work, I’m just going to have to go with the clunky <em>Sentiment Analysis and Opinion Mining</em> (<em>SA & OM</em>).
