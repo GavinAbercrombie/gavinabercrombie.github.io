@@ -19,14 +19,14 @@ There are pros and cons to both methods. The automatically collected labels have
 
 In my current work, we have three sets of labels: one set obtained by method 1, and two sets by method 2: the ‘gold standard’ annotations, and those of a second annotator (used for validation). Inter-annotator agreement is very similar to rates of co-occurrence between the automatically collected and the manually annotated labels, so it’s hard to say which ones are closer to the elusive ground truth. 
 
-But, to justify having gone to the bother of creating them, we hope our gold standard is ‘better’. And experiments suggest that they may be: when trained and tested using only text features, classifiers predict more of the manual labels correctly than the vote labels (but only just). We claim that the manual labels are more reflective of the phenomena of interest (the  sentiment of speakers in debates), while the automatically collected labels primarily represent something else (speakers’ voting intentions).
+But, to justify having gone to the bother of creating them, we hope our gold standard is ‘better’. And experiments suggest that they may be: when trained and tested using only text features, classifiers predict more of the manual labels ‘correctly‘ than the vote labels (but only just). We claim that the manual labels are more reflective of the phenomena of interest (the  sentiment of speakers in debates), while the automatically collected labels primarily represent something else (speakers’ voting intentions).
 
 So, in the absence of ground truth labels, it must be the nature and objectives of the task that give meaning to the gold standard labels:
 
 <blockquote><em>The value of the gold derives from the task definition for the annotation effort, which in turn derives from combined judgements about practicality and utility on the part of developers.</em></blockquote>
 <div style="text-align: right">Oxford handbook of Cognitive Science</div>
 
-That probably sounds pretty flaky if you’re used to hard logic and reasoning, but in NLP it’s generally all we have and it seems to work okay for many practical applications.
+That probably sounds pretty unsatisfactory if you’re used to hard logic and reasoning, but in NLP it’s generally all we have and it seems to work okay for many practical applications. As an aside, this problem has been addressed, particularly for computer vision, and a number of approaches have been proposed for taking into account the level of noise in the labels.
 
 <h3>References</h3>
 
