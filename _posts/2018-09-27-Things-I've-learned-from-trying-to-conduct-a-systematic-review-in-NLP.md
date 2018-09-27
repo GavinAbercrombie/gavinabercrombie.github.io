@@ -1,5 +1,5 @@
 ---
-title: Things I've learned from conducting a systematic review in NLP
+title: Things I've learned from trying to conduct a systematic review in NLP
 ---
 
 \* This post is a work in progress - I will add to it as I find out more things I don't know\*
