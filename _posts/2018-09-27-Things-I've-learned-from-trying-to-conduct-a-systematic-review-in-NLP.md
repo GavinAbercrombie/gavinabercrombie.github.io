@@ -1,3 +1,7 @@
+---
+title: Things I've learned from conducting a systematic review in NLP
+---
+
 \* This post is a work in progress - I will add to it as I find out more things I don't know\*
 
 Systematic reviews are being pushed by my institution, and seem like a good way of easing my doubts about the randomness of my literature searches. However with little precedent in NLP, the process has been far from strightforward. Here I list the many doubts I have had and the decisions I've taken to resolve them.
