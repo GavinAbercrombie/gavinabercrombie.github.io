@@ -1,3 +1,7 @@
+---
+title: What is the gold in gold standard labels for NLP?
+---
+
 Some meandering thoughts on labelling for supervised text classification.
 
 I’ve recently had a couple of experiences presenting work on supervised text classification to people from other fields who expressed bafflement that we would ever consider evaluating anything with labels that we know not to be entirely reliable. I myself was pretty surprised by the idea that there could exist labels for any task that can be considered to be 100% reliable. I’m just so used to considering labels to invariably be both noisy and systematically biased. Which poses this question:
