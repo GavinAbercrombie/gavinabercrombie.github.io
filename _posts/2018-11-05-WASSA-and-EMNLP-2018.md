@@ -1,7 +1,5 @@
 ---
-title: test
+title: WASSA and EMNLP 2018: The loneliness of the long-awaited poster session
 ---
 
-This is a test.
-
-*This is also a test*
+Just back from presenting a paper at WASSA,<sup>1</sup> here are some thoughts on the workshop and wider conference.
