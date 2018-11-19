@@ -4,7 +4,7 @@ title: ALL the papers on sentiment analysis of parliamentary debates
 
 Here it is: a comprehensive list of all the research I've found on any form of sentiment or position-taking analysis of parliamentary and legislative debate transcripts.
 
-| Author(s)                           | Year  | Title                                                    | Publication |
+| Author(s)                           | Year  | Title                                                    | Publication | 
 | :---------------------------------- |:----------------------------------------------------------------:| :-----------| ------ | 
 | Abercrombie, G. & Batista-Navarro, R | 2018 | ['Aye'or'No'? Speech-level Sentiment Analysis of Hansard UK Parliamentary Debate Transcripts](http://www.lrec-conf.org/proceedings/lrec2018/pdf/741.pdf)   | LREC (ELRA) |  
 | Ahmadalinezhad, M. & Makrehchi, M. | 2018 | [Detecting Agreement and Disagreement in Political Debates](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_6) | International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 54-60). Springer, Cham. | 
@@ -15,16 +15,16 @@ Here it is: a comprehensive list of all the research I've found on any form of s
 | Baturo, A., Dasandi, N., & Mikhaylov, S. J.   | 2017   | [Understanding state preferences with text as data: Introducing the UN General Debate corpus](https://journals.sagepub.com/doi/pdf/10.1177/2053168017712821)  | Research & Politics   |
 | Budhwar, A., Kuboi, T., Dekhtyar, A., & Khosmood, F.   | 2018   | [Predicting the vote using legislative speech](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3131&context=theses)  | International Conference on Digital Government Research: Governance in the Data Age  |
 | Burfoot, C.    | 2008   | [Using multiple sources of agreement information for sentiment classiﬁcation of political transcripts](http://www.aclweb.org/anthology/U08-1003)  | Australasian Language Technology Association Workshop  |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
+| Burfoot, C., Bird, S. and Baldwin, T.   | 2011 | [Collective Classification of Congressional Floor-Debate Transcripts](https://aclanthology.info/pdf/P/P11/P11-1151.pdf)  | ACL  |
+| Burford, C., Bird, S. and Baldwin, T.   | 2015   | [Collective Document Classification with Implicit Inter-document Semantic Relationships](http://www.aclweb.org/anthology/S15-1012)  | Joint Conference on Lexical and Computational Semantics  |
+| Chen, W., Zhang, X., Wang, T., Yang, B. and Li, Y.   | 2017 | [Opinion-aware Knowledge Graph for Political Ideology Detection](https://www.ijcai.org/proceedings/2017/0510.pdf)  | IJCAI  |
+| Diermeier, D., Godbout, J.F., Yu, B. and Kaufmann, S.   | 2012 | [Language and Ideology in Congress](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1063F5509BC2ABC3F9A0E164E58157EE/S0007123411000160a.pdf/language_and_ideology_in_congress.pdf)  | British Journal of Political Science  |
+| Dzieciątko, M.   | 2018 | [Application of Text Analytics to Analyze Emotions in the Speeches](https://link.springer.com/chapter/10.1007/978-3-319-91211-0_46)  | International Conference on Information Technologies in Biomedicine  |
+| Frid-Nielsen, S.S.   | 2018 | [Human rights or security? Positions on asylum in European Parliament speeches](https://journals.sagepub.com/doi/pdf/10.1177/1465116518755954)  | European Union Politics  |
+| Glavaš, G., Nanni, F. and Ponzetto, S.P.   | 2017   | [Unsupervised Cross-Lingual Scaling of Political Texts](http://www.aclweb.org/anthology/E17-2109)  | EMNLP |
+| Hirst, G., Feng, V.W., Cochrane, C. and Naderi, N.   | 2014   | [Argumentation, Ideology, and Issue Framing in Parliamentary Discourse](ftp://ftp.db.toronto.edu/public_html/public_html/cs/ftp/dist/gh/Hirst-etal-Bertinoro-2014.pdf)  | ArgNLP  |
+| Honkela, T., Korhonen, J., Lagus, K. and Saarinen, E.   | 2014 | [Five-Dimensional Sentiment Analysis of Corpora, Documents and Words](https://link.springer.com/content/pdf/10.1007%2F978-3-319-07695-9_20.pdf)  | Advances in Self-Organizing Maps and Learning Vector Quantization  |
+| Hopkins, D.J. and King, G.   | 2010   | [A Method of Automated Nonparametric Content Analysis for Social Science](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-5907.2009.00428.x)  | American Journal of Political Science  |
 |    |    | []()  |   |
 |    |    | []()  |   |
 |    |    | []()  |   |
