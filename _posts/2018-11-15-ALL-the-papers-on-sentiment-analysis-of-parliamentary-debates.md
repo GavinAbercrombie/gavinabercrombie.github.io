@@ -48,16 +48,16 @@ Here it is: a comprehensive list of all the research I've found on any form of s
 | Rudkowsky, E., Haselmayer, M., Wastian, M., Jenny, M., Emrich, Š. and Sedlmair, M. | 2018   | [More than Bags of Words: Sentiment Analysis with Word Embeddings](https://www.tandfonline.com/doi/pdf/10.1080/19312458.2018.1455817?needAccess=true)  | Communication Methods and Measures  |
 | Sakamoto, T. and Takikawa, H.   | 2017   | [Cross-national measurement of polarization in political discourse: Analyzing floor debate in the U.S. the Japanese legislatures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8258285)  | IEEE International Conference on Big Data (Big Data)  |
 | Salah, Z., Coenen, F. and Grossi, D.   | 2013 | [Generating Domain-Specific Sentiment Lexicons for Opinion Mining](https://link.springer.com/content/pdf/10.1007%2F978-3-642-53914-5_2.pdf)  | Advanced Data Mining and Applications  |
-| Salah, Z., Coenen, F. and Grossi, D.   | 2013 | [Extracting debate graphs from parliamentary transcripts: a study directed at UK house of commons debates](http://delivery.acm.org/10.1145/2520000/2514615/p121-salah.pdf?ip=130.88.193.33&id=2514615&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EA30F01C2334F920C%2EBF0E600670500ADE%2E4D4702B0C3E38B35&__acm__=1542650460_22386db0b29b1166e9a16266eb677ef9)  | International Conference on Artificial Intelligence and Law  |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
-|    |    | []()  |   |
+| Salah, Z., Coenen, F. and Grossi, D.   | 2013 | [Extracting debate graphs from parliamentary transcripts: a study directed at UK house of commons debates](http://delivery.acm.org/10.1145/2520000/2514615/p121-salah.pdf?ip=130.88.193.33&id=2514615&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EA30F01C2334F920C%2EBF0E600670500ADE%2E4D4702B0C3E38B35&__acm__=1542650460_22386db0b29b1166e9a16266eb677ef9)  | International Conference on Artificial Intelligence and Law  | 
+| Salah, Z. | 2014  | [Machine Learning and Sentiment Analysis Approaches for the Analysis of Parliamentary Debates](https://core.ac.uk/download/pdf/80771780.pdf)  | PhD thesis  |
+| Schwarz, D., Traber, D. and Benoit, K.   | 2017 | [Estimating Intra-Party Preferences: Comparing Speeches to Votes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D5812B196E0945B1341AFCD050F24858/S2049847015000771a.pdf/estimating_intraparty_preferences_comparing_speeches_to_votes.pdf)  | Political Science Research and Methods  |
+| Sokolova, M. and Lapalme, G.   | 2008   | [Verbs Speak Loud: Verb Categories in Learning Polarity and Strength of Opinions](https://link.springer.com/content/pdf/10.1007%2F978-3-540-68825-9_30.pdf)  | Conference of the Canadian Society for Computational Studies of Intelligence  |
+| Taddy, M. | 2013  | [Multinomial Inverse Regression for Text Analysis](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2012.734168?needAccess=true)  | Journal of the American Statistical Association  |
+| Thomas, M., Pang, B. and Lee, L.   | 2006   | [Get out the vote: Determining support or opposition from Congressional floor-debate transcripts](http://delivery.acm.org/10.1145/1620000/1610122/p327-thomas.pdf?ip=130.88.193.33&id=1610122&acc=OPEN&key=BF07A2EE685417C5%2EA30F01C2334F920C%2EBF0E600670500ADE%2E6D218144511F3437&__acm__=1542651684_7ec21e833d222cb46b7be0f72c03dc63)  | EMNLP  |
+| van der Zwaan, J.M., Marx, M. and Kamps, J. | 2016   | [Validating Cross-Perspective Topic Modeling for Extracting Political Parties' Positions from Parliamentary Proceedings](https://pure.uva.nl/ws/files/17571222/FAIA285_0028.pdf)  | ECAI  |
+| Vilares, D. and He, Y.   | 2017   | [Detecting Perspectives in Political Debates](http://www.aclweb.org/anthology/D17-1165)  | EMNLP  |
+| Yessenalina, A., Yue, Y. and Cardie, C.   | 2010   | [Multi-Level Structured Models for Document-Level Sentiment Classification](http://www.aclweb.org/anthology/D10-1102)  | EMNLP  |
+| Yogatama, D. and Smith, N.   | 2014   | [Making the Most of Bag of Words: Sentence Regularization with Alternating Direction Method of Multipliers](http://proceedings.mlr.press/v32/yogatama14.pdf)  | ICML  |
+| Yogatama, D. and Smith, N.A.   | 2014   | [Linguistic Structured Sparsity in Text Categorization](http://www.aclweb.org/anthology/P14-1074)  | ACL  |
+| Yogatama, D., Kong, L. and Smith, N.A.   | 2015   | [Bayesian Optimization of Text Representations](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP251.pdf)  | EMNLP  |
+| Zhu, L. and Mitra, P.   | 2009   | [Multidimensional political spectrum identification and analysis](http://delivery.acm.org/10.1145/1650000/1646297/p2045-zhu.pdf?ip=130.88.193.33&id=1646297&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EA30F01C2334F920C%2EBF0E600670500ADE%2E4D4702B0C3E38B35&__acm__=1542652261_e1ce9807c2c31ebc30a981b91dee7195)  | ACM conference on Information and knowledge management   |
