@@ -25,6 +25,39 @@ Here it is: a comprehensive list of all the research I've found on any form of s
 | Hirst, G., Feng, V.W., Cochrane, C. and Naderi, N.   | 2014   | [Argumentation, Ideology, and Issue Framing in Parliamentary Discourse](ftp://ftp.db.toronto.edu/public_html/public_html/cs/ftp/dist/gh/Hirst-etal-Bertinoro-2014.pdf)  | ArgNLP  |
 | Honkela, T., Korhonen, J., Lagus, K. and Saarinen, E.   | 2014 | [Five-Dimensional Sentiment Analysis of Corpora, Documents and Words](https://link.springer.com/content/pdf/10.1007%2F978-3-319-07695-9_20.pdf)  | Advances in Self-Organizing Maps and Learning Vector Quantization  |
 | Hopkins, D.J. and King, G.   | 2010   | [A Method of Automated Nonparametric Content Analysis for Social Science](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-5907.2009.00428.x)  | American Journal of Political Science  |
+| Iyyer, M., Enns, P., Boyd-Graber, J. and Resnik, P.   | 2014   | [Political Ideology Detection Using Recursive Neural Networks](http://www.aclweb.org/anthology/P14-1105)  | ACL  |
+| Jensen, J., Naidu, S., Kaplan, E., Wilse-Samson, L., Gergen, D., Zuckerman, M. and Spirling, A.   | 2012   | [Political Polarization and the Dynamics of Political Language: Evidence from 130 Years of Partisan Speech](https://www.jstor.org/stable/pdf/41825364.pdf)  | Brookings Papers on Economic Activity  |
+| Ji, Y. and Smith, N.A.  | 2017  | [Neural Discourse Structure for Text Categorization](http://www.aclweb.org/anthology/P17-1092)  | ACL  |
+| Kapočiūtė-Dzikienė, J. and Krupavičius, A.   | 2014  | [Predicting Party Group from the Lithuanian Parliamentary Speeches](http://itc.ktu.lt/index.php/ITC/article/view/5871/4150)  | Information Technology And Control  |
+| Kauffman, D., Khosmood, F., Kuboi, T. and Dekhtyar, A.   | 2018   | [Learning alignments from legislative discourse](http://delivery.acm.org/10.1145/3210000/3209413/a119-kaufffman.pdf?ip=130.88.193.33&id=3209413&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EA30F01C2334F920C%2EBF0E600670500ADE%2E4D4702B0C3E38B35&__acm__=1542647580_7fe6dbe2c6b0b0b4d9a2fc30d3d907e4)  | International Conference on Digital Government Research: Governance in the Data Age  |
+| Kim, I.S., Londregan, J. and Ratkovic, M.   | 2018  | [Estimating Spatial Preferences from Votes and Text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C580ED354853271EFA759E289DC73C3A/S1047198718000074a.pdf/estimating_spatial_preferences_from_votes_and_text.pdf)  | Political Analysis  |
+| Lapponi, E., Søyland, M.G., Velldal, E. and Oepen, S.   | 2018  | [The Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016](https://link.springer.com/content/pdf/10.1007%2Fs10579-018-9411-5.pdf)  | Language Resources and Evaluation  |
+| Laver, M., Benoit, K. and Garry, J.  | 2003 | [Extracting Policy Positions from Political Texts Using Words as Data](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4F4676E80A79E01EAAB88EF3F2D1B733/S0003055403000698a.pdf/extracting-policy-positions-from-political-texts-using-words-as-data.pdf)  | The American Political Science Review  |
+| Lefait, G. and Kechadi, T.   | 2010  | [Analysis of Deputy and Party Similarities through Hierarchical Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5432787)  | International Conference on Digital Society  |
+| Li, X., Chen, W., Wang, T. and Huang, W.   | 2017 | [Target-Specific Convolutional Bi-directional LSTM Neural Network for Political Ideology Analysis](https://link.springer.com/content/pdf/10.1007%2F978-3-319-63564-4_5.pdf)  | Joint Conference on Web and Big Data  |
+| Lowe, W. and Benoit, K.   | 2013  | [Validating Estimates of Latent Traits from Textual Data Using Human Judgment as a Benchmark](https://www.jstor.org/stable/pdf/24572663.pdf)  | Political Analysis  |
+| Martineau, J., Finin, T., Joshi, A. and Patel, S.   | 2009   | [Improving binary classification on text problems using differential word features](http://delivery.acm.org/10.1145/1650000/1646291/p2019-martineau.pdf?ip=130.88.193.33&id=1646291&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EA30F01C2334F920C%2EBF0E600670500ADE%2E4D4702B0C3E38B35&__acm__=1542648536_2773808ddbb37e91b2ce25a8541dfb83)  | ACM conference on Information and knowledge management  |
+| Monroe, B.L., Colaresi, M.P. and Quinn, K.M.   | 2008   | [Fightin' Words: Lexical Feature Selection and Evaluation for Identifying the Content of Political Conflict](https://www.jstor.org/stable/pdf/25791946.pdf)  | Political Analysis  |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
+|    |    | []()  |   |
 |    |    | []()  |   |
 |    |    | []()  |   |
 |    |    | []()  |   |
