@@ -6,7 +6,8 @@ Here it is: a comprehensive list of all the research I've found on any form of s
 
 | Author(s)                           | Year  | Title                                                    | Publication | 
 | :---------------------------------- |:----------------------------------------------------------------:| :-----------| ------ | 
-| Abercrombie, G. & Batista-Navarro, R | 2018 | ['Aye'or'No'? Speech-level Sentiment Analysis of Hansard UK Parliamentary Debate Transcripts](http://www.lrec-conf.org/proceedings/lrec2018/pdf/741.pdf)   | LREC (ELRA) |  
+| Abercrombie, G. & Batista-Navarro, R. | 2018 | ['Aye'or'No'? Speech-level Sentiment Analysis of Hansard UK Parliamentary Debate Transcripts](http://www.lrec-conf.org/proceedings/lrec2018/pdf/741.pdf)   | LREC (ELRA) |  
+| Abercrombie, G. & Batista-Navarro, R. | 2018 | [Identifying Opinion-Topics and Polarity of Parliamentary Debate Motions](http://www.aclweb.org/anthology/W18-6241)  | WASSA  |
 | Ahmadalinezhad, M. & Makrehchi, M. | 2018 | [Detecting Agreement and Disagreement in Political Debates](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_6) | International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (pp. 54-60). Springer, Cham. | 
 | Akhmedova, S., Semenkin, E., & Stanovov, V. | 2018 | [Co-operation of Biology Related Algorithms for Solving Opinion Mining Problems by Using Different Term Weighting Schemes](https://link.springer.com/chapter/10.1007/978-3-319-55011-4_4)  | Informatics in Control, Automation and Robotics |
 | Allison, B.   | 2008   | [Sentiment detection using lexically-based classifiers](https://pdfs.semanticscholar.org/ad3f/cf63595b65110499aabe721adb1743f1c456.pdf)  | International Conference on Text, Speech and Dialogue  |
@@ -24,6 +25,7 @@ Here it is: a comprehensive list of all the research I've found on any form of s
 | Frid-Nielsen, S.S.   | 2018 | [Human rights or security? Positions on asylum in European Parliament speeches](https://journals.sagepub.com/doi/pdf/10.1177/1465116518755954)  | European Union Politics  |
 | Gartner, R.  | 2017  | [Using structured text corpora in Parliamentary Metadata Language for the analysis of legislative proceedings](https://sas-space.sas.ac.uk/6641/)  | Digital Humanities Quarterly  | 
 | Glavaš, G., Nanni, F. and Ponzetto, S.P.   | 2017   | [Unsupervised Cross-Lingual Scaling of Political Texts](http://www.aclweb.org/anthology/E17-2109)  | EMNLP |
+| Grijzenhout, S., Jijkoun, V. and Marx, M. | 2010  | [Opinion mining in dutch hansards](https://pdfs.semanticscholar.org/a314/15a5295e795ed30bec05f22d24502f40d967.pdf)  | From Text to Political Positions (workshop)  |
 | Hirst, G., Feng, V.W., Cochrane, C. and Naderi, N.   | 2014   | [Argumentation, Ideology, and Issue Framing in Parliamentary Discourse](ftp://ftp.db.toronto.edu/public_html/public_html/cs/ftp/dist/gh/Hirst-etal-Bertinoro-2014.pdf)  | ArgNLP  |
 | Honkela, T., Korhonen, J., Lagus, K. and Saarinen, E.   | 2014 | [Five-Dimensional Sentiment Analysis of Corpora, Documents and Words](https://link.springer.com/content/pdf/10.1007%2F978-3-319-07695-9_20.pdf)  | Advances in Self-Organizing Maps and Learning Vector Quantization  |
 | Hopkins, D.J. and King, G.   | 2010   | [A Method of Automated Nonparametric Content Analysis for Social Science](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-5907.2009.00428.x)  | American Journal of Political Science  |
