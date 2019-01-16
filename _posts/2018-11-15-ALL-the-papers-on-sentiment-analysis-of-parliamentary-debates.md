@@ -5,7 +5,7 @@ title: ALL the papers on sentiment analysis of parliamentary debates
 Here it is: a list of all the research I've found on any form of sentiment or position-taking analysis of parliamentary and legislative debate transcripts. N = 59.
 
 | Author(s)                             | Year | Title       | Publication/conference  | Summary  |
-| :------------------------------------ |:----:| :-----------| :---------------------- | :------- |
+| :------------------------------------ |:----:| :------------- | :------------------ | :---------------- |
 | Abercrombie, G. & Batista-Navarro, R. | 2018 | ['Aye'or'No'? Speech-level Sentiment Analysis of Hansard UK Parliamentary Debate Transcripts](http://www.lrec-conf.org/proceedings/lrec2018/pdf/741.pdf)   | LREC (ELRA) | Comparison of vote/manual labels  |
 | Abercrombie, G. & Batista-Navarro, R. | 2018 | [Identifying Opinion-Topics and Polarity of Parliamentary Debate Motions](http://www.aclweb.org/anthology/W18-6241)  | WASSA  | Supervised multilabel policy position classification |
 | Ahmadalinezhad, M. & Makrehchi, M. | 2018 | [Detecting Agreement and Disagreement in Political Debates](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_6) | International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation |   |
