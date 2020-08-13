@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+PhD candidate in natural language processing at the University of Manchester.
+
+In September 2020, I will become a research associate at Heriot Watt University, Edinburgh, Scotland.
