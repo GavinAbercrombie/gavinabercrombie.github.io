@@ -8,6 +8,8 @@ I'm a PhD candidate in natural language processing at the University of Manchest
 I'm now also a research associate at Heriot Watt University, Edinburgh, where I'm working on gender bias in conversational AI in [Verena Rieser's NLP lab](https://sites.google.com/view/nlplab/).
 
 
+[My publications](https://scholar.google.com/citations?user=AHLy4VgAAAAJ&hl=en)
+
 ### Contact:
 
 g.abercrombie@hw.ac.uk
