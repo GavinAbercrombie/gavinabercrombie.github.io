@@ -5,7 +5,7 @@ title: Gavin Abercrombie
 
 I'm a research associate at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [Verena Rieser's NLP lab](https://sites.google.com/view/nlplab/).
 
-I'm funded by two following EPSRC projects: 
+I'm funded by two EPSRC projects: 
 
 - [Designing Conversational Assistants to Reduce Gender Bias (EP/T023767/1)](https://sites.google.com/view/convai-gender-bias)
 - [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home)
