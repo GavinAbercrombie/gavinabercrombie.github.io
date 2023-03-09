@@ -3,7 +3,7 @@ layout: page
 title: Gavin Abercrombie
 ---
 
-I'm a research associate at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [Verena Rieser's NLP lab](https://sites.google.com/view/nlplab/).
+I'm a research associate at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the NLP lab](https://sites.google.com/view/nlplab/).
 
 I'm funded by two EPSRC projects: 
 
