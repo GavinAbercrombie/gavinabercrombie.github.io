@@ -26,6 +26,12 @@ Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
 ### News:
 
-**September 2024**: Our paper 'Mirages' was cited by the [AI Safety Institute](https://www.aisi.gov.uk/work/should-ai-systems-behave-like-people).
+**September 2024**
 
-**September 2024** I was invited to take part in a forum on combating disinformation and hate speech, organised by the Spanish government's Ministry of National Security at the Universidad Complutense de Madrid.
+Our paper ['Mirages'](https://aclanthology.org/2023.emnlp-main.290/) was cited by the AI Safety Institute as motivation for a [survey](https://www.aisi.gov.uk/work/should-ai-systems-behave-like-people) on public attitudes to anthropomorphic technology.
+
+I was invited to take part in a forum on combating disinformation and hate speech, organised by the Spanish government's Ministry of National Security at the Universidad Complutense de Madrid.
+
+**July 2024**
+
+I gave my first keynote talk at the [Scottish Informatics & Computer Science Alliance](https://www.sicsa.ac.uk/) PhD Conference, University of Aberdeen.
