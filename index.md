@@ -3,7 +3,7 @@ layout: page
 title: Gavin Abercrombie
 ---
 
-<img src="IMG-20220703-WA0000-02.jpeg" alt="portrait" width="200"/>
+<img src="images/IMG-20220703-WA0000-02.jpeg" alt="portrait" width="200"/>
 
 I'm an assistant professor at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the Interaction Lab](https://sites.google.com/site/hwinteractionlab/).
 
