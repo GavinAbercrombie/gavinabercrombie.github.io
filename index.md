@@ -5,10 +5,9 @@ title: Gavin Abercrombie
 
 I'm an assistant professor at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the NLP lab](https://sites.google.com/view/nlplab/).
 
-I'm funded by two EPSRC projects: 
+I'm part funded by the EPSRC projects [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home) 
 
-- [Designing Conversational Assistants to Reduce Gender Bias (EP/T023767/1)](https://sites.google.com/view/convai-gender-bias)
-- [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home)
+I previously worked on the EPSRC project[Designing Conversational Assistants to Reduce Gender Bias (EP/T023767/1)](https://sites.google.com/view/convai-gender-bias)
 
 
 You can find my publications [here](https://scholar.google.com/citations?user=AHLy4VgAAAAJ&hl=en).
@@ -17,4 +16,4 @@ You can find my publications [here](https://scholar.google.com/citations?user=AH
 
 g.abercrombie@hw.ac.uk
 
-[@gavin_does_nlp](https://twitter.com/gavin_does_nlp)
+[Bluesky](https://bsky.app/profile/gavina.bsky.social)
