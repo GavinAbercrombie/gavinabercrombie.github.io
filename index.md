@@ -23,3 +23,9 @@ You can take a look at my CV here (coming soon)
 email: g.abercrombie@hw.ac.uk
 
 Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
+
+### News:
+
+**September 2024**: Our paper 'Mirages' was cited by the [AI Safety Institute](https://www.aisi.gov.uk/work/should-ai-systems-behave-like-people).
+
+**September 2024** I was invited to take part in a forum on combating disinformation and hate speech, organised by the Spanish government's Ministry of National Security at the Universidad Complutense de Madrid.
