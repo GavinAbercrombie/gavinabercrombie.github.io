@@ -3,7 +3,9 @@ layout: page
 title: Gavin Abercrombie
 ---
 
-I'm an assistant professor at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the Interaction Lab](https://sites.google.com/site/hwinteractionlab/)).
+<img src="IMG-20220703-WA0000-02.jpeg" alt="portrait" width="200"/>
+
+I'm an assistant professor at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the Interaction Lab](https://sites.google.com/site/hwinteractionlab/).
 
 I'm part funded by the EPSRC projects [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home). 
 
