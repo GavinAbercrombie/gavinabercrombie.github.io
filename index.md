@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gavin Abercrombie
+title: Gavin\ Abercrombie
 ---
 
 <img src="images/IMG-20220703-WA0000-02.jpeg" alt="portrait" width="200"/>
