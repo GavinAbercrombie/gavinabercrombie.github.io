@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gavin\ Abercrombie
+title: Gavin
 ---
 
 <img src="images/IMG-20220703-WA0000-02.jpeg" alt="portrait" width="200"/>
@@ -35,3 +35,9 @@ I was invited to take part in a forum on combating disinformation and hate speec
 **July 2024**
 
 I gave my first keynote talk at the [Scottish Informatics & Computer Science Alliance](https://www.sicsa.ac.uk/) PhD Conference, University of Aberdeen.
+
+**June**
+
+My MSc student Aashima Poudhar presented her [paper on counterspeech strategies](https://aclanthology.org/2024.woah-1.20/) at WOAH.
+
+I presented our [survey and how-to guide on NLP for counterspeech](https://aclanthology.org/2024.findings-naacl.221/) with Helena Bonaldi at NAACL in Mexico City.
