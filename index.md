@@ -16,7 +16,7 @@ I'm an organiser of the workshops [NLPerspectives](https://nlperspectives.di.uni
 
 You can find my publications [here](https://scholar.google.com/citations?user=AHLy4VgAAAAJ&hl=en).
 
-You can take a look at my CV here (coming soon)
+You can find my CV [here](files/AcademicCV2024.pdf)
 
 ### Contact:
 
