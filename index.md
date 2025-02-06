@@ -1,4 +1,4 @@
----
+b---
 layout: page
 title: Gavin
 ---
@@ -26,7 +26,7 @@ Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
 ### News:
 
-**September 2024**
+**December 2024**
 
 Tanvi Dinkar and I gave a talk on using participatory design for NLP at [University of Edinburgh ILCC](https://informatics.ed.ac.uk/ilcc)
 
