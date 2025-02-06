@@ -7,7 +7,7 @@ title: Gavin
 
 I'm an assistant professor at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the Interaction Lab](https://sites.google.com/site/hwinteractionlab/).
 
-I'm part funded by the EPSRC projects [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home). 
+I'm part funded by the EPSRC project [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home). 
 
 I previously worked on the EPSRC project [Designing Conversational Assistants to Reduce Gender Bias (EP/T023767/1)](https://sites.google.com/view/convai-gender-bias).
 
