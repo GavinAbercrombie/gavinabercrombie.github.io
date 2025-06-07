@@ -1,4 +1,4 @@
-b---
+---
 layout: page
 title: Gavin
 ---
@@ -25,6 +25,10 @@ email: g.abercrombie@hw.ac.uk
 Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
 ### News:
+
+**July 2025**
+
+I'm co-organising and presenting a [tutorial on NLP for Counterspeech against Hate and Misinformation](https://sites.google.com/view/nlp4csham/) at this year's ACL conference.
 
 **December 2024**
 
