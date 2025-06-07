@@ -16,7 +16,7 @@ I'm an organiser of the workshops [NLPerspectives](https://nlperspectives.di.uni
 
 You can find my publications [here](https://scholar.google.com/citations?user=AHLy4VgAAAAJ&hl=en).
 
-You can find my CV [here](files/AcademicCV2024.pdf)
+You can find my CV [here](files/AcademicCV2024.pdf).
 
 ### Contact:
 
@@ -49,3 +49,7 @@ I gave my first keynote talk at the [Scottish Informatics & Computer Science All
 My MSc student Aashima Poudhar presented her [paper on counterspeech strategies](https://aclanthology.org/2024.woah-1.20/) at WOAH.
 
 I presented our [survey and how-to guide on NLP for counterspeech](https://aclanthology.org/2024.findings-naacl.221/) with Helena Bonaldi at NAACL in Mexico City.
+
+______________________________________________________________
+
+'I use technology in order to hate it properly.' Nam June Paik
