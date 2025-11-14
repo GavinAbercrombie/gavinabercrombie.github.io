@@ -48,7 +48,7 @@ I was invited to take part in a forum on combating disinformation and hate speec
 
 I gave my first keynote talk at the [Scottish Informatics & Computer Science Alliance](https://www.sicsa.ac.uk/) PhD Conference, University of Aberdeen.
 
-**June**
+**June 2024**
 
 My MSc student Aashima Poudhar presented her [paper on counterspeech strategies](https://aclanthology.org/2024.woah-1.20/) at WOAH.
 
