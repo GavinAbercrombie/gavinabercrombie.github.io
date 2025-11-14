@@ -26,6 +26,10 @@ Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
 ### News:
 
+**November 2025**
+
+I co-organised the 4th Workshop on Perspectivist Approaches to NLP [NLPerspectives](https://nlperspectives.di.unito.it/) at EMNLP in Suzhou, China.
+
 **July 2025**
 
 I'm co-organising and presenting a [tutorial on NLP for Counterspeech against Hate and Misinformation](https://sites.google.com/view/nlp4csham/) at this year's ACL conference.
