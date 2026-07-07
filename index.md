@@ -26,6 +26,18 @@ Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
 ### News:
 
+**July 2026**
+
+My MSc student Abubakar Sadiq Muhammad presented [work from his project](https://aclanthology.org/2026.acl-srw.52) at the ACL Student Research Workshop.
+
+**May 2026**
+
+Tanvi Dinkar presented [our critique of NLP for counterspeech](https://arxiv.org/abs/2508.04638) at LREC in Palma de Mallorca, where I also co-organised the 5th Workshop on [Perspectivist Approaches to NLP](https://nlperspectives.di.unito.it).
+
+**April 2026**
+
+I gave a talk at IMS Stuttgart on current issues with Perspectivist NLP. Thanks to [Esra Dönmez](https://www.ims.uni-stuttgart.de/en/institute/team/Doenmez) for inviting me! I wrote up the talk as a position paper, which was published in the proceedings of this year's [NLPerspectives workshop at LREC](http://lrec-conf.org/proceedings/lrec2026/workshops/nlperspectives/2026.nlperspectives-1.0.pdf).
+
 **November 2025**
 
 I co-organised the 4th Workshop on Perspectivist Approaches to NLP [NLPerspectives](https://nlperspectives.di.unito.it/) at EMNLP in Suzhou, China.
