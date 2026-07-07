@@ -22,9 +22,9 @@ You can find my CV [here](files/AcademicCV2024.pdf).
 
 ### Contact:
 
-email: g.abercrombie@hw.ac.uk
-
 Find me in [room EM1.36](https://www.hw.ac.uk/campuses/edinburgh/maps-directions/edinburgh-campus-map).
+
+email: g.abercrombie@hw.ac.uk
 
 Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
