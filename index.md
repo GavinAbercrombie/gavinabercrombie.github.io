@@ -7,6 +7,8 @@ title: Gavin
 
 I'm an assistant professor at Heriot-Watt University, Edinburgh, where I'm working on mitigation of online harms in [the Interaction Lab](https://sites.google.com/site/hwinteractionlab/).
 
+I am Deputy Programme Director of the [MSc in Data Science](https://www.hw.ac.uk/study/postgraduate/data-science).
+
 From 2022-2026 I was funded by the EPSRC project [Equally Safe Online (EP/W025493/1)](https://sites.google.com/view/equallysafeonline/home). 
 
 I previously worked on the EPSRC project [Designing Conversational Assistants to Reduce Gender Bias (EP/T023767/1)](https://sites.google.com/view/convai-gender-bias).
@@ -21,6 +23,8 @@ You can find my CV [here](files/AcademicCV2024.pdf).
 ### Contact:
 
 email: g.abercrombie@hw.ac.uk
+
+Find me in [room EM1.36](https://www.hw.ac.uk/campuses/edinburgh/maps-directions/edinburgh-campus-map).
 
 Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
