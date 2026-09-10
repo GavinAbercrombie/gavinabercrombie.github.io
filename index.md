@@ -30,6 +30,15 @@ Follow me on [Bluesky](https://bsky.app/profile/gavina.bsky.social).
 
 ### News:
 
+**September 2026** 
+
+I was external examiner for [Dr. Soda Marem Lo](https://scholar.google.com/citations?user=UN-oq-cAAAAJ), who graduated *cum laude* under the supervision of Valerio Basile. 
+I also gave a talk at the University of Turin on 'The Ethics of Automating Counterspeech'.
+
+**August 2026**
+
+I acted as external examiner for [Dr. Yi (Wendy) Zheng](https://smash.inf.ed.ac.uk/author/yi-wendy-zheng/) at the University of Edinburgh.
+
 **July 2026**
 
 My MSc student Abubakar Sadiq Muhammad presented [work from his project](https://aclanthology.org/2026.acl-srw.52) at the ACL Student Research Workshop.
